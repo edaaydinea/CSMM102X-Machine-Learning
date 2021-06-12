@@ -10,9 +10,9 @@
    - This project relates to implementation of K-class Bayes Classifier.
 
 3. Week 8 Project - Clustering
-  - This project relates to implementation of K-means and EM Gaussian mixture models.
+   - This project relates to implementation of K-means and EM Gaussian mixture models.
          
 4. Week 11 Project - HMM and State - space Models
-    - This project relates to implementation of probabilistic matrix factorization. (PMF)
+   - This project relates to implementation of probabilistic matrix factorization. (PMF)
 
 
