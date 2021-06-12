@@ -1,5 +1,5 @@
-# CSMM101X - Artificial Intelligence
- This repository is included my python projects which I studied in Artificial Intelligence for MicroMaster at Columbia University.
+# CSMM102X - Machine Learning
+ This repository is included my python projects which I studied in Machine Learning for MicroMaster at Columbia University.
  
  Project Explanation of Artificial Intelligence Course
 
